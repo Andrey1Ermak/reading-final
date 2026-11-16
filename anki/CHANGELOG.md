@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 25 extra questions, ~481 cards.
+Current build: 198 studies, 31 extra questions, ~487 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-16
+
+- Extra question · CHELATE (trientine tetrahydrochloride vs penicillamine): CHELATE: most common adverse event on TETA4 vs on penicillamine?
+- Extra question · NAC in non-acetaminophen PALF (Squires 2013): NAC in non-acetaminophen PALF: did NAC shorten ICU/hospital stay or reduce organ failure or peak HE grade?
+- Extra question · Rifampin for cholestatic pruritus in children (Yerushalmi 1999): Rifampin for cholestatic itch (Yerushalmi 1999): complete response in extrahepatic vs intrahepatic cholestasis?
+- Extra question · PFIC1 vs PFIC2 — 62 children (Davit-Spraul 2010): Davit-Spraul 2010 (62 normal-GGT PFIC): in how many was no ATP8B1/ABCB11 cause found?
+- Extra question · AAV gene therapy for Crigler–Najjar (D'Antiga 2023): AAV8-UGT1A1 gene therapy for Crigler–Najjar: main safety issue and how was it managed?
+- Extra question · Hepatic artery thrombosis in pediatric LT — SPLIT (Ebel 2020): SPLIT HAT analysis: what share of children with HAT lost the graft within 90 days?
 
 ## 2026-11-15
 
