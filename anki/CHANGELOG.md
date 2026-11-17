@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 31 extra questions, ~487 cards.
+Current build: 198 studies, 37 extra questions, ~493 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-17
+
+- Extra question · PEDFIC 2 (odevixibat open-label extension): PEDFIC 2: in new patients starting odevixibat (cohort 2), sBA change and positive pruritus assessments over 24 weeks?
+- Extra question · King's pediatric AIH — 20 years (Gregorio 1997): King's pediatric AIH (Gregorio 1997): how often was cirrhosis already present at diagnosis in type 1 (ANA/SMA+) AIH?
+- Extra question · PALF Study Group — first 348 (Squires 2006): PALF Study Group (first 348 children): how often was acetaminophen the cause of pediatric ALF?
+- Extra question · King's College Criteria (O'Grady 1989): King's College Criteria (O'Grady 1989): what cohort were they derived from, and why use caution in children?
+- Extra question · Sertraline for refractory pruritus (Thébaut 2017): Sertraline for refractory cholestatic itch (Thébaut 2017): how often were there adverse events, and how often was it stopped?
+- Extra question · MDR3 deficiency spectrum (Jacquemin 2001): Jacquemin 2001: in what share of patients with a PFIC3 (high-GGT) phenotype was an MDR3 defect proven?
 
 ## 2026-11-16
 
