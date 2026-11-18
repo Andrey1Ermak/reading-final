@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 37 extra questions, ~493 cards.
+Current build: 198 studies, 43 extra questions, ~499 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-18
+
+- Extra question · Swedish newborn screening (Sveger 1976): Sveger 1976: PiZZ infants without clinical liver disease — how often were liver tests abnormal at 3 months?
+- Extra question · Taiwan universal HBV vaccination & childhood HCC (Chang 1997): Taiwan HBV vaccination and childhood HCC (Chang 1997): why was the primary analysis limited to children ≥6 years?
+- Extra question · Alagille syndrome in 92 patients (Emerick 1999): Infant with Alagille syndrome and no excretion on hepatobiliary scintiscan: did this predict transplant or death (Emerick 1999)?
+- Extra question · Severe BSEP deficiency — 109 families (Strautnieks 2008): Strautnieks 2008: with E297G/D482G variants, how often was some BSEP still detected on immunohistochemistry?
+- Extra question · TJP2 mutations cause PFIC4 (Sambrotta 2014): TJP2 / PFIC4 (Sambrotta 2014): how did the human phenotype contrast with the Tjp2 knockout mouse?
+- Extra question · De novo AIH after liver transplant (Kerkar 1998): De novo AIH after pediatric LT (Kerkar 1998): when did it present, and what were the original indications?
 
 ## 2026-11-17
 
