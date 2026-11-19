@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 43 extra questions, ~499 cards.
+Current build: 198 studies, 49 extra questions, ~505 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-19
+
+- Extra question · ICONIC (maralixibat, ALGS): ICONIC: who was eligible, and what maralixibat dose was used in the core study?
+- Extra question · ChiLDReN ALGS natural history (Kamath 2020): ChiLDReN ALGS cohort: how was the degree of cholestasis linked to growth?
+- Extra question · NAPPED — BSEP deficiency (van Wessel 2020): NAPPED BSEP: median native-liver survival by genotype severity (BSEP1 / BSEP2 / BSEP3)?
+- Extra question · Pediatric PSC Consortium — 781 children (Deneau 2017): Pediatric PSC Consortium: once portal hypertensive or biliary complications develop, how long is median native-liver survival?
+- Extra question · SIOPEL-6 (sodium thiosulfate otoprotection): SIOPEL-6: child with standard-risk hepatoblastoma starting cisplatin — how and when is sodium thiosulfate given?
+- Extra question · WISP-R — immunosuppression withdrawal (Feng 2012): WISP-R: why did 8 of 20 children fail withdrawal, and what happened after immunosuppression was restarted?
 
 ## 2026-11-18
 
