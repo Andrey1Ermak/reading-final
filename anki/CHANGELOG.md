@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 49 extra questions, ~505 cards.
+Current build: 198 studies, 55 extra questions, ~511 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-20
+
+- Extra question · Texas DB/CB newborn screening (Harpavat 2020): Texas BA screening: newborn's DB/CB at 36 h is above the 95th percentile — what next, and what counts as positive?
+- Extra question · ASSERT (odevixibat, ALGS): ASSERT (odevixibat in ALGS): serious treatment-emergent adverse events, odevixibat vs placebo?
+- Extra question · PEDFIC 1 (odevixibat, PFIC): PEDFIC 1: how was serum bile acid response defined, and how many responded per arm?
+- Extra question · MARCH-PFIC (maralixibat): MARCH-PFIC: maralixibat dosing, and how was the primary (BSEP) cohort defined?
+- Extra question · New Wilson Index / revised King's score (Dhawan 2005): Dhawan 2005: how did the old King's Wilson score (cutoff 7) misclassify children?
+- Extra question · Budesonide in pediatric AIH (Woynarowski 2013): Pediatric AIH budesonide trial (Woynarowski 2013): what doses were compared?
 
 ## 2026-11-19
 
