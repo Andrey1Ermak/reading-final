@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 55 extra questions, ~511 cards.
+Current build: 198 studies, 61 extra questions, ~517 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-21
+
+- Extra question · Fazirsiran phase 2 (AROAAT-2002): Fazirsiran phase 2 (AROAAT-2002): dosing schedule, and how many serious adverse events?
+- Extra question · SEQUOIA (fazirsiran, placebo-controlled phase 2): SEQUOIA: did portal inflammation improve on fazirsiran vs placebo (baseline score >0)?
+- Extra question · Pediatric DILI in DILIN (Molleston 2011): Pediatric DILI in DILIN: median time from drug start to symptoms, and median peak ALT?
+- Extra question · Teduglutide pediatric 24-week phase 3 (Kocoshis 2020): Teduglutide pediatric phase 3 (Kocoshis 2020): how common were adverse events, and which were most frequent?
+- Extra question · 10-year survivors of pediatric LT — SPLIT (Ng 2012): SPLIT 10-year survivors of pediatric LT (Ng 2012): how many of the 167 were off immunosuppression?
+- Extra question · PiMZ vs PiZZ liver phenotypes (Schneider 2020): Schneider 2020: how often were AAT inclusions found on liver biopsy in PiMZ vs PiZZ adults?
 
 ## 2026-11-20
 
