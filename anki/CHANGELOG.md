@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 61 extra questions, ~517 cards.
+Current build: 198 studies, 67 extra questions, ~523 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-22
+
+- Extra question · SAFETY study: SAFETY: sensitivity for detecting NAFLD, HBV or HCV with current hospital ALT cut-offs vs NHANES-derived thresholds?
+- Extra question · Harpavat 2011 — newborn DB/CB in BA: Harpavat 2011: mean direct bilirubin at 24–48 h of life in infants later diagnosed with BA vs controls?
+- Extra question · Taiwan stool color card (Hsiao 2008): Taiwan national stool color card program: what was the biliary atresia incidence in 2004 and 2005?
+- Extra question · AAV gene therapy for Crigler–Najjar (D'Antiga 2023): AAV8-UGT1A1 for Crigler–Najjar: how was efficacy defined, and did the lower dose meet it?
+- Extra question · Liver disease in PiZZ adults — European cohort (Hamesch 2019): Hamesch 2019 (PiZZ adults): how common was severe steatosis (CAP ≥280 dB/m), and what lipid pattern suggested impaired hepatic lipid secretion?
+- Extra question · Liver disease in PiZZ adults — European cohort (Hamesch 2019): A 55-year-old PiZZ man has raised GGT, low platelets and normal lung function. Does normal lung function lower his liver fibrosis risk (Hamesch 2019)?
 
 ## 2026-11-21
 
