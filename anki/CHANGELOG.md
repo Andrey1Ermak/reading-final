@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 67 extra questions, ~523 cards.
+Current build: 198 studies, 73 extra questions, ~529 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-23
+
+- Extra question · IVIG after Kasai (phase I/IIa): IVIG after Kasai (phase I/IIa): how feasible was it, and how common were serious adverse events?
+- Extra question · NAPPED — FIC1 deficiency (van Wessel 2021): NAPPED FIC1: native-liver survival at age 10 by serum bile acids at presentation (<194 vs ≥194 µmol/L)?
+- Extra question · Swedish newborn screening (Sveger 1976): Sveger 1976: PiSZ infants had no clinical liver disease — but how often were their liver tests abnormal?
+- Extra question · Zinc vs chelators — long-term (Weiss 2011): Weiss 2011 (Wilson disease, zinc vs chelators): how was hepatic treatment failure defined?
+- Extra question · GGT as a surrogate in pediatric PSC (Deneau 2018): Deneau 2018 pediatric PSC: mean GGT at 1 year with vs without UDCA — and did it change 5-year outcome?
+- Extra question · Recurrent BSEP deficiency after LT (Jara 2009): Jara 2009: what evidence showed that anti-BSEP antibodies actually cause the post-LT cholestasis?
 
 ## 2026-11-22
 
