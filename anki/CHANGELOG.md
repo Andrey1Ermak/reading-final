@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 73 extra questions, ~529 cards.
+Current build: 198 studies, 79 extra questions, ~535 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-24
+
+- Extra question · PEDFIC 2 (odevixibat open-label extension): PEDFIC 2: how was a 'positive pruritus assessment' defined, and how often in cohort 1A (odevixibat since PEDFIC 1)?
+- Extra question · High-dose UDCA in PSC (Lindor 2009): Lindor 2009 (high-dose UDCA in PSC): risk of death, transplant or minimal listing criteria vs placebo?
+- Extra question · HBRN immune-tolerant trial (Rosenthal 2019): HBRN immune-tolerant trial (Rosenthal 2019): entecavir and peginterferon doses and schedule?
+- Extra question · MDR3 deficiency spectrum (Jacquemin 2001): Jacquemin 2001: what types of MDR3 mutations were found, and which type meant milder disease?
+- Extra question · PiMZ vs PiZZ liver phenotypes (Schneider 2020): Schneider 2020: compared with PiZZ adults and non-carriers, what were serum GGT and liver stiffness like in PiMZ adults?
+- Extra question · ALF in young infants ≤90 days (Sundaram 2011): PALF infants ≤90 days: cumulative death without LT in neonatal hemochromatosis and indeterminate ALF, vs 64% in viral ALF?
 
 ## 2026-11-23
 
