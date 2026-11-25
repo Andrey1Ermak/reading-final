@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 79 extra questions, ~535 cards.
+Current build: 198 studies, 85 extra questions, ~541 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-25
+
+- Extra question · Fazirsiran phase 2 (AROAAT-2002): Fazirsiran phase 2 (AROAAT-2002): what was the primary endpoint, and why is it weak evidence for children?
+- Extra question · SEQUOIA (fazirsiran, placebo-controlled phase 2): SEQUOIA (baseline fibrosis >F0): how often did the HAI score improve by >1 point, fazirsiran vs placebo?
+- Extra question · Entecavir in children (Jonas 2016): Entecavir in children (Jonas 2016): HBeAg seroconversion alone at week 48, entecavir vs placebo?
+- Extra question · High-volume plasma exchange in ALF (Larsen 2016): Larsen 2016: how much plasma was exchanged, for how long, and were severe adverse events more common?
+- Extra question · PFIC1 vs PFIC2 — 62 children (Davit-Spraul 2010): Davit-Spraul 2010: which bile and immunostaining findings point to PFIC2 rather than PFIC1?
+- Extra question · SMOFlipid vs Intralipid for early IFALD (Diamond 2017): Diamond 2017 (SMOFlipid vs Intralipid): did SMOFlipid speed full enteral tolerance?
 
 ## 2026-11-24
 
