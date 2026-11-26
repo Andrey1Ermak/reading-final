@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 85 extra questions, ~541 cards.
+Current build: 198 studies, 91 extra questions, ~547 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-26
+
+- Extra question · NAPPED — BSEP deficiency (van Wessel 2020): NAPPED BSEP: did surgical biliary diversion prolong native-liver survival, and in which genotypes?
+- Extra question · MRI-PDFF vs histology in pediatric NAFLD (Middleton 2018): Middleton 2018: what MRI-PDFF change over 52 weeks marked histologic steatosis improvement or worsening (90% specificity)?
+- Extra question · Severe BSEP deficiency — 109 families (Strautnieks 2008): Strautnieks 2008: in how many families with suspected severe BSEP deficiency was only one heterozygous ABCB11 mutation found despite complete sequencing?
+- Extra question · Liver disease in PiZZ adults — European cohort (Hamesch 2019): Hamesch 2019: how did serum triglycerides and LDL/VLDL cholesterol in PiZZ adults compare with controls, and what does it suggest?
+- Extra question · Diagnosing Wilson ALF: ALP/bilirubin & AST/ALT (Korman 2008): Korman 2008: is serum copper >200 µg/dL a reliable marker of Wilson disease in acute liver failure?
+- Extra question · CAMARO — MMF vs azathioprine induction (Snijders 2024): CAMARO: complete biochemical response at 6 months, MMF vs azathioprine (both with prednisolone)?
 
 ## 2026-11-25
 
