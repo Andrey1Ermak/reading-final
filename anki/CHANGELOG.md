@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 91 extra questions, ~547 cards.
+Current build: 198 studies, 97 extra questions, ~553 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-27
+
+- Extra question · MARCH-PFIC (maralixibat): MARCH-PFIC: how often did serious treatment-emergent adverse events occur, maralixibat vs placebo?
+- Extra question · Normal liver stiffness in children — IPD meta-analysis (Li 2020): Li 2020 (normal liver stiffness): mean LSM in healthy children <3 years, and what raised it in that group?
+- Extra question · Causes of infant conjugated hyperbilirubinemia — systematic review (Gottesman 2015): Gottesman 2015: most common specific infection and metabolic disease causing infant conjugated hyperbilirubinemia?
+- Extra question · Antibiotic prophylaxis for post-Kasai cholangitis (Bu 2003): Bu 2003 (prophylaxis after post-Kasai cholangitis): which regimens and doses were compared?
+- Extra question · AAV gene therapy for Crigler–Najjar (D'Antiga 2023): AAV8-UGT1A1 gene therapy for Crigler–Najjar (D'Antiga 2023): main limitation of the evidence?
+- Extra question · PiMZ vs PiZZ liver phenotypes (Schneider 2020): Schneider 2020: what did UK Biobank data (444,642 participants) show for serum transaminases in PiMZ carriers?
 
 ## 2026-11-26
 
