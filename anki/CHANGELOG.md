@@ -1,7 +1,16 @@
 # Deck changelog
 
-Current build: 198 studies, 97 extra questions, ~553 cards.
+Current build: 198 studies, 103 extra questions, ~559 cards.
 Each day's additions are tagged `added::YYYY-MM-DD` in Anki.
+
+## 2026-11-28
+
+- Extra question · PEDFIC 1 (odevixibat, PFIC): PEDFIC 1: how often did serious treatment-emergent adverse events occur, odevixibat vs placebo?
+- Extra question · NAPPED — FIC1 deficiency (van Wessel 2021): NAPPED FIC1: which post-diversion serum bile acid level tended to go with better native-liver survival?
+- Extra question · SEQUOIA (fazirsiran, placebo-controlled phase 2): SEQUOIA: how did fazirsiran dosing differ for patients with vs without fibrosis on baseline biopsy?
+- Extra question · NGS-integrated algorithm for infant cholestasis (Nicastro 2019): Nicastro 2019: how were the 50 infants tested genetically, and who got trio whole-exome sequencing?
+- Extra question · Cholic acid for bile acid synthesis defects (Gonzales 2009): Gonzales 2009 (cholic acid for bile acid synthesis defects): starting and long-term cholic acid dose?
+- Extra question · MMP-7 as a biliary atresia biomarker (Lertudomphonwanit 2017): Lertudomphonwanit 2017: which cells produce MMP-7 in biliary atresia, and why might it be more than a marker?
 
 ## 2026-11-27
 
